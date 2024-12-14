@@ -1,0 +1,10 @@
+{
+  "files": {
+    "main.js": "/News-Website/static/js/main.cf175022.js",
+    "index.html": "/News-Website/index.html",
+    "main.cf175022.js.map": "/News-Website/static/js/main.cf175022.js.map"
+  },
+  "entrypoints": [
+    "static/js/main.cf175022.js"
+  ]
+}
